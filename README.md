@@ -37,3 +37,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/OmAjayBhavsar/PersonalFinanceTracker.git
+
+## Live Demo
+
+[Open the Personal Finance Tracker](https://omajaybhavsar.github.io/PersonalFinanceTracker/)
